@@ -19,8 +19,8 @@ Este proyecto fue creado para practicar tipado en TypeScript, manejo de estado e
 - CSS puro con Google Fonts
 
 ## 📸 Capturas
-<img width="1571" height="909" alt="todoapp1" src="https://github.com/user-attachments/assets/d3b39d55-76e4-4202-8f11-4cd9ddf2325a" />
-<img width="1421" height="830" alt="todoappp" src="https://github.com/user-attachments/assets/c2bb402a-44fb-4669-901d-9f97a77c5354" />
+<img width="1571" height="909" alt="todoapp1" src="https://github.com/user-attachments/assets/bf856d34-b668-4a6d-afaf-77dce2165aa6" />
+<img width="1421" height="830" alt="todoappp" src="https://github.com/user-attachments/assets/b82ab5aa-84a5-4862-b6a6-9c4b7f203170" />
 
 ## 📂 Instalación y uso
 
